@@ -1,0 +1,2 @@
+功能A:project.c func_a.c
+功能B:project.c func_b.c
