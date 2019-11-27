@@ -1,0 +1,10 @@
+#include "func_a.h"
+
+int variable_a_a;
+int variable_a_b;
+int variable_a_c;
+
+void func_a(void)
+{
+  // do nothing
+}

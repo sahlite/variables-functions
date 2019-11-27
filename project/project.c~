@@ -1,0 +1,2 @@
+#include "../src/func_a/func_a.h"
+#include "../src/func_b/func_b.h"

@@ -1,0 +1,4 @@
+./lib_test/crclib.c
+./project/project.c
+./src/func_a/func_a.c
+./src/func_b/func_b.c
