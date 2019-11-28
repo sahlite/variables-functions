@@ -1,0 +1,10 @@
+variable_b_b:./project/project.c
+variable_b_a:./src/func_b/func_b.c
+variable_b_a:./project/project.c
+variable_a_b:./src/func_a/func_a.c
+variable_a_a:./project/project.c
+variable_a_a:./src/func_a/func_a.c
+variable_b_b:./src/func_b/func_b.c
+variable_a_c:./src/func_a/func_a.c
+variable_a_b:./project/project.c
+variable_a_c:./project/project.c
